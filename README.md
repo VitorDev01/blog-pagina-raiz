@@ -19,7 +19,7 @@
            radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
            radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
            font-family: 300 18px/1.6 "Source Sans Pro",sans-serif;
-           text-align: left;
+          
            
          }
     
@@ -36,20 +36,7 @@
            margin: 20px;
            font: 300 17px/1.6 "Source Sans Pro",sans-serif;
          }
-         
-         #date {
-           color: #fff;
-           text-align: right;
-           font: 300 18px/1.6 "Source Sans Pro",sans-serif;
-         }
-         
-         #rel{
-	           color:#fff;
-	           border:none;
-	           float: left;
-	           background: none;
-	           font: 300 18px/1.6 "Source Sans Pro",sans-serif;
-         }
+        
    
          img, h1, p {
            display: inline-block;
@@ -73,9 +60,11 @@
            color: #fff;
            position: absolute;
            margin: 30px;
+           font: 400 25px/1.6 "Source Sans Pro",sans-serif;
          }
          mark {
            border-radius: 50px;
+           background-color: #fff;
          }
          i {
            margin-left: 18px;
@@ -97,7 +86,7 @@
         <br><br>
         <h2><a href="https://vitordev01.github.io/page-about-internet/">O Nascimento Da Internet</h2></a>
         <p>De onde surgiu? quem esta por trás da crianção da internet? mundialmente presente na vida de todos • 3 min de leitura<br>
-        <mark>#www #world wide web #internet de tudo</mark></p>
+        <mark>#www #worldWideWeb #internetDeTudo</mark></p>
         
         <hr>
        
