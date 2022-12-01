@@ -102,7 +102,7 @@
         <br><br>
         <h2><a href="#">Os 12 Signos Do Zodíaco</h2></a>
         <p>As principais características dos signos e suas coligações com outros temas  • Em breve  <br>
-        <mark>#Astrológia #personalidades #individualidades</mark></p>
+        <mark>#Astrologia #personalidades #individualidades</mark></p>
         
         <br>
   </body>
