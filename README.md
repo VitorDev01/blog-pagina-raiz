@@ -114,7 +114,7 @@
         
         <p>02 de dezembro de 2023</p>
         <br><br>
-        <h2><a href="#">Os 12 Signos Do Zodíaco</h2></a>
+        <h2><a href="https://vitordev01.github.io/pagina-signos-curso/">Os 12 Signos Do Zodíaco</h2></a>
         <p>As principais características dos signos e suas coligações com outros temas  • 10 min de leitura <br>
         <mark>#Astrologia #personalidade #individualidade</mark></p>
         
