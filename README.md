@@ -77,7 +77,7 @@
  
   <body> 
         
-         <a href="https://github.com/VitorDev01"><img src="https://vitordev01.github.io/pagina-comercial/eu3.jpg">
+         <a href="https://vitordev01.netlify.app/"><img src="https://vitordev01.github.io/pagina-comercial/eu3.jpg">
         <h1>Vitor Oliveira - Blog Pessoal • <i class="fa fa-book"></i><i class="fa fa-coffee"></i></h1></a>
         <br>
         <hr>
