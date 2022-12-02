@@ -49,8 +49,10 @@
          }
          audio {
            display: inline;
-           margin-left: 50px;
-           margin-top: 50px;
+           margin-left: 20px;
+           margin-top: 10px;
+           width: 90%;
+           height: 20px;
          }
          
          img {
@@ -92,10 +94,8 @@
         <source src="horse.ogg" type="audio/ogg">
         <source src="teste.mp3" type="audio/mpeg">
            Your browser does not support the audio element.
-           
-        </audio>
-        <br>
-        <hr>
+          
+        </audio> 
         <p>25 de fevereiro de 2022</p>
         <br><br>
         <h2><a href="https://vitordev01.github.io/page-about-internet/">O Nascimento Da Internet</h2></a>
