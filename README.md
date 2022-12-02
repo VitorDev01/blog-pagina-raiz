@@ -47,6 +47,12 @@
            margin-top: 60px;
            width: 100%;
          }
+         audio {
+           display: inline;
+           margin-left: 50px;
+           margin-top: 50px;
+         }
+         
          img {
            height: 50px ;
            width: 50px ;
@@ -81,7 +87,15 @@
         <h1>Vitor Oliveira - Blog Pessoal • <i class="fa fa-book"></i><i class="fa fa-coffee"></i></h1></a>
         <br>
         <hr>
+        <audio controls autoplay>
+          
+        <source src="horse.ogg" type="audio/ogg">
+        <source src="teste.mp3" type="audio/mpeg">
+           Your browser does not support the audio element.
+           
+        </audio>
         <br>
+        <hr>
         <p>25 de fevereiro de 2022</p>
         <br><br>
         <h2><a href="https://vitordev01.github.io/page-about-internet/">O Nascimento Da Internet</h2></a>
@@ -90,7 +104,7 @@
         
         <hr>
        
-        <p>33 de maio de 2022</p>
+        <p>22 de maio de 2022</p>
         <br><br>
         <h2><a href="https://vitordev01.github.io/estudo-religioes/">Sincretismo Religioso</h2></a>
         <p>Estudo sobre semelhanças entre as principais religiões do mundo • 5 min de leitura <br>
@@ -107,3 +121,4 @@
         <br>
   </body>
 </html>
+    
