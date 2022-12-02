@@ -92,7 +92,7 @@
         <audio controls autoplay>
           
         <source src="horse.ogg" type="audio/ogg">
-        <source src="teste.mp3" type="audio/mpeg">
+        <source src="audio.mp3" type="audio/mpeg">
            Your browser does not support the audio element.
           
         </audio> 
@@ -112,11 +112,11 @@
         
         <hr>
         
-        <p>01 de janeiro de 2023</p>
+        <p>02 de dezembro de 2023</p>
         <br><br>
         <h2><a href="#">Os 12 Signos Do Zodíaco</h2></a>
-        <p>As principais características dos signos e suas coligações com outros temas  • Em breve  <br>
-        <mark>#Astrologia #personalidades #individualidades</mark></p>
+        <p>As principais características dos signos e suas coligações com outros temas  • 10 min de leitura <br>
+        <mark>#Astrologia #personalidade #individualidade</mark></p>
         
         <br>
   </body>
