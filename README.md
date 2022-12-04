@@ -171,7 +171,7 @@
             <div class="area">
            
            <ul id="menu" role="menu">
-             <li><a href="https://wa.me/5524992717594?text=Olá+Gostaria+De+Saber+Mais+Sobre+As+Consultas+Online">WhatsApp •  <i class=" fab fa-whatsapp" style="color: white"></i></a></li>
+             <li><a href="">WhatsApp •  <i class=" fab fa-whatsapp" style="color: white"></i></a></li>
              
              <li><a href="mailto:vitorkw90@gmail.com">Gmail • <i class="fa fa-envelope"></i></a></li>
                           
