@@ -1,0 +1,138 @@
+/*Arquivo dos estilos da página separado*/
+     
+      @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+      body { 
+              /*Largura da página*/
+              min-height: 100vh;
+              background-color: #0B1516;
+              
+      }
+      /*Escondendo os botes */
+      .hide {
+              display:none;
+            }
+            input[type="checkbox"] {
+              display: none;
+            }
+            #btn-a:checked ~ .hide {
+              display: block;
+            }
+            #btn-a:not(:checked) ~ .hide {
+              display: none;
+            }
+            #btn-b:checked ~ .hide {
+              display: block;
+            }
+              #btn-b:not(:checked) ~ .hide {
+              display: none;
+            }
+            #btn-c:checked ~ .hide {
+              display: block;
+            }
+            #btn-c:not(:checked) ~ .hide {
+              display: none;
+            }
+            #btn-d:checked ~ .hide {
+              display: block;
+            }
+            #btn-d:not(:checked) ~ .hide {
+              display: none;
+            }
+            #btn-e:checked ~ .hide {
+              display: block;
+            }
+            #btn-e:not(:checked) ~ .hide {
+              display: none;
+            }
+            #btn-f:checked ~ .hide {
+              display: block;
+            }
+            #btn-f:not(:checked) ~ .hide {
+              display: none;
+            }
+            
+            
+            img {
+              margin: auto;
+              margin-top: 50px;
+              display: block;
+              height: 206px;
+              width: 206px;
+              border-radius: 50%;
+            }
+            
+            h1 {
+              color: #fff;
+              font: 400 30px/1.6 "Source Sans Pro",sans-serif;
+              text-align: center;
+            }
+     
+            p {
+              color: #fff;
+              text-align: center;
+              font: 400 19px/1.6 "Source Sans Pro",sans-serif;
+              
+            }
+     
+            #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5, #btn-6{
+              background-color: #045256;
+              border-color: #DDF7F8;
+              margin-left: 10px;
+              margin-right: 10px;
+              border-radius: 10px;
+              width: 380px;
+              outline: none;
+              
+            }
+ 
+            .area p {
+              margin: 15px;
+              font: 400 20px/1.6 "Source Sans Pro",sans-serif;
+            }
+
+            .area {
+             border: 3px solid ;
+             border-top-color: #0B1516;
+             border-bottom-color: #0B1516;
+             border-right-color: #0B1516;
+             border-left-color: #DDF7F8;
+             display: block;
+             margin: 10px;
+             
+             
+            }
+            ul {
+             list-style: none;
+           } 
+           a { /*Links menu*/
+            color: white;
+           
+            font: 370 20px/1.6 "Source Sans Pro",sans-serif;
+          }
+        
+          a:hover { /*cor ao tocar nos links*/
+           background:rgba(0, 0, 0, .09);
+           width: 20px;
+          }
+          i {
+            margin-right: 10px;
+          }
+          .swiffy-slider {
+            height: 150px;
+            width: 150px;
+            margin: 40px;
+       
+          }
+          /*Menu a esquerda*/
+          #menu {
+            float: right;
+            
+          }
+          
+          mark {
+            background-color: #045256;
+            color: white;
+            border-radius: 15px;
+          }
+    
