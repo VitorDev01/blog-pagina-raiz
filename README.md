@@ -53,6 +53,14 @@
             #btn-e:not(:checked) ~ .hide {
               display: none;
             }
+            #btn-f:checked ~ .hide {
+              display: block;
+            }
+            #btn-f:not(:checked) ~ .hide {
+              display: none;
+            }
+            
+            
             img {
               margin: auto;
               margin-top: 50px;
@@ -75,7 +83,7 @@
               
             }
      
-            #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5{
+            #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5, #btn-6{
               background-color: #045256;
               border-color: #DDF7F8;
               margin-left: 10px;
@@ -171,7 +179,7 @@
             <div class="area">
            
            <ul id="menu" role="menu">
-             <li><a href="">WhatsApp •  <i class=" fab fa-whatsapp" style="color: white"></i></a></li>
+             <li><a href="https://wa.me/5524992717594?text=Olá+Gostaria+De+Saber+Mais+Sobre+As+Consultas+Online">WhatsApp •  <i class=" fab fa-whatsapp" style="color: white"></i></a></li>
              
              <li><a href="mailto:vitorkw90@gmail.com">Gmail • <i class="fa fa-envelope"></i></a></li>
                           
@@ -230,6 +238,21 @@
               <p>01 de dezembro de 2022<br><a href="https://vitordev01.github.io/pagina-signos-curso/">As principais características dos signos e suas coligações com outros temas</a>
               <br> • 10 min de leitura <br>
               <mark>astrologia #individualidade #signos</mark></p>
+             </div>
+          </div>
+          
+          <br><br>
+          <input type="checkbox" id="btn-f">
+          <button id="btn-6">
+          <label for= "btn-f" >
+            <p><strong>♏ Lutero & Seu Signo Escorpião</strong></p>
+          </label>
+          </button>
+          <div class="hide">
+            <div class="area">
+              <p>06 de dezembro de 2022<br><a href="https://vitordev01.github.io/pagina-reforma-protestante/">A ligação de Matinho Lutero e seu signo e suas profundas características</a>
+              <br> • 5 min de leitura <br>
+              <mark>signo #personalidade #reformaProtestante</mark></p>
              </div>
           </div>
     </body>
