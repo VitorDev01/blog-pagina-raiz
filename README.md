@@ -89,7 +89,7 @@
               margin-left: 10px;
               margin-right: 10px;
               border-radius: 10px;
-              width: 380px;
+              width: 95%;
               outline: none;
               
             }
