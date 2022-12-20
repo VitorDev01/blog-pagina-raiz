@@ -88,15 +88,16 @@
             }
      
             #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5, #btn-6, #btn-7{
+              height: 70px;
+              width: 95%;
               background-color: #045256;
-              border-color: #DDF7F8;
+              border: none;
               margin-left: 10px;
               margin-right: 10px;
               border-radius: 10px;
-              width: 95%;
               outline: none;
             }
- 
+            
             .area p {
               margin: 15px;
               font: 400 20px/1.6 "Source Sans Pro",sans-serif;
@@ -111,12 +112,13 @@
              display: block;
              margin: 10px;
             }
+            
             ul {
              list-style: none;
-           } 
+           }
+           
            a { /*Links menu*/
             color: white;
-           
             font: 370 20px/1.6 "Source Sans Pro",sans-serif;
           }
         
@@ -124,23 +126,28 @@
            background:rgba(0, 0, 0, .09);
            width: 20px;
           }
+    
           i {
             margin-right: 10px;
           }
+     
           .swiffy-slider {
             height: 150px;
             width: 150px;
             margin: 40px;
           }
+      
           /*Menu a esquerda*/
           #menu {
             float: right;
           }
+      
           mark {
             background-color: #045256;
             color: white;
             border-radius: 15px;
           }
+      
           .roda-pe { 
               text-decoration: none; 
               color: white; 
@@ -218,9 +225,7 @@
               <mark>#taro #numerologia #anoPessoal</mark></p>
              </div>
           </div>
-       
-       
-       
+     
           <br><br>
           <input type="checkbox" id="btn-d">
           <button id="btn-3">
