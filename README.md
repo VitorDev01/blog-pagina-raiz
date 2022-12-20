@@ -85,7 +85,6 @@
               color: #fff;
               text-align: center;
               font: 400 19px/1.6 "Source Sans Pro",sans-serif;
-              
             }
      
             #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5, #btn-6, #btn-7{
@@ -96,7 +95,6 @@
               border-radius: 10px;
               width: 95%;
               outline: none;
-              
             }
  
             .area p {
@@ -112,8 +110,6 @@
              border-left-color: #DDF7F8;
              display: block;
              margin: 10px;
-             
-             
             }
             ul {
              list-style: none;
@@ -135,19 +131,26 @@
             height: 150px;
             width: 150px;
             margin: 40px;
-       
           }
           /*Menu a esquerda*/
           #menu {
             float: right;
-            
           }
-          
           mark {
             background-color: #045256;
             color: white;
             border-radius: 15px;
           }
+          .roda-pe { 
+              text-decoration: none; 
+              color: white; 
+              font-size: 18px; 
+              cursor: pointer; 
+              padding: 5px 10px; 
+              text-align: center; 
+              font-family: "Source Sans Pro",sans-serif;
+              display: block;
+            }
     </style>
     <body>
     <!--foto-->
@@ -277,5 +280,9 @@
               <mark>signo #personalidade #reformaProtestante</mark></p>
              </div>
           </div>
+          <br><br>
+          <footer class="roda-pe">
+                <p>Vitor Oliveira © 2023 - Todos os direitos reservados.</p>
+        </footer>
     </body>
 </html>
