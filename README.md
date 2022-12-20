@@ -59,7 +59,12 @@
             #btn-f:not(:checked) ~ .hide {
               display: none;
             }
-            
+            #btn-g:checked ~ .hide {
+              display: block;
+            }
+            #btn-g:not(:checked) ~ .hide {
+              display: none;
+            }
             
             img {
               margin: auto;
@@ -83,7 +88,7 @@
               
             }
      
-            #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5, #btn-6{
+            #btn-1, #btn-2 , #btn-3 , #btn-4, #btn-5, #btn-6, #btn-7{
               background-color: #045256;
               border-color: #DDF7F8;
               margin-left: 10px;
@@ -195,11 +200,28 @@
           <p>Página disponível somente para versão  móvel,para desktop e tv ainda estão em desenvolvimento.</p>    
           </div>
           </div>
-    
-          <br> <br>
+          
+          <br><br>
           <input type="checkbox" id="btn-c">
-          <button id="btn-3">
+          <button id="btn-7">
           <label for= "btn-c" >
+            <p><strong><i class="fa fa-id-card" aria-hidden="true"></i>Taro & Numerologia</strong></p>
+          </label>
+          </button>
+          <div class="hide">
+            <div class="area">
+              <p>Disponível Apartir de 01 Janeiro 2023<br><a href="#">Veja quais são as influências que estão em grande aspecto em seu ano pessoal segundoa numerologia e taro<br></a>
+              
+              <mark>#taro #numerologia #anoPessoal</mark></p>
+             </div>
+          </div>
+       
+       
+       
+          <br><br>
+          <input type="checkbox" id="btn-d">
+          <button id="btn-3">
+          <label for= "btn-d" >
             <p><strong><i class="fa fa-globe" aria-hidden="true"></i>O Nascimento Da Internet</strong></p>
           </label>
           </button>
@@ -212,9 +234,9 @@
           </div>
    
           <br><br>
-          <input type="checkbox" id="btn-d">
+          <input type="checkbox" id="btn-e">
           <button id="btn-4">
-          <label for= "btn-d" >
+          <label for= "btn-e" >
             <p><strong><i class="fa fa-hands" aria-hidden="true"></i>Sincretismo Religioso </strong></p>
           </label>
           </button>
@@ -227,9 +249,9 @@
           </div>
           
           <br><br>
-          <input type="checkbox" id="btn-e">
+          <input type="checkbox" id="btn-f">
           <button id="btn-5">
-          <label for= "btn-e" >
+          <label for= "btn-f" >
             <p><strong><i class="fa fa-star" aria-hidden="true"></i>Os 12 Signos Do Zodíaco</strong></p>
           </label>
           </button>
@@ -242,9 +264,9 @@
           </div>
           
           <br><br>
-          <input type="checkbox" id="btn-f">
+          <input type="checkbox" id="btn-g">
           <button id="btn-6">
-          <label for= "btn-f" >
+          <label for= "btn-g" >
             <p><strong>♏ Lutero & Seu Signo Escorpião</strong></p>
           </label>
           </button>
