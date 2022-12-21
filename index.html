@@ -66,13 +66,13 @@
               display: none;
             }
             
-            img {
+            img  {
               margin: auto;
-              margin-top: 50px;
+              margin-top: 10px;
               display: block;
-              height: 206px;
-              width: 206px;
-              border-radius: 50%;
+              height: 230px;
+              width: 95%;
+              border-radius: 15px;
             }
             
             h1 {
@@ -161,12 +161,18 @@
     </style>
     <body>
     <!--foto-->
-    <img src="https://vitordev01.github.io/pagina-comercial/eu3.jpg">
+    <img src="https://vitordev01.github.io/pagina-comercial/eu3.jpg" style="position:                absolute; 
+              margin: 87px;
+              margin-top: 90px;
+              display: block;
+              height: 204px;
+              width: 204px;
+              border-radius: 50%;">
+    <img src="fundo.jpg">
     <!-- Titulo -->
+    <br><br>
 
-    <h1>@Vitor Oliveira - Blog Pessoal <i class="fa fa-coffee" aria-hidden="true"></i><i class="fa fa-book"></i></h1>
-    
-    
+    <h1>@Vitor Oliveira - Blog Pessoal</h1>
     <!-- Parágrafos-->
      <input type="checkbox" id="btn-a">
           <button id="btn-1">
@@ -215,12 +221,12 @@
           <input type="checkbox" id="btn-c">
           <button id="btn-7">
           <label for= "btn-c" >
-            <p><strong><i class="fa fa-id-card" aria-hidden="true"></i>Taro & Numerologia</strong></p>
+            <p><strong><i class="fa fa-id-card" aria-hidden="true"></i>Tarô & Numerologia</strong></p>
           </label>
           </button>
           <div class="hide">
             <div class="area">
-              <p>Disponível Apartir de 01 Janeiro 2023<br><a href="https://vitordev01.github.io/pagina-numerologia/">Veja quais são as influências que estão em grande aspecto em seu ano pessoal segundoa numerologia e taro<br></a>
+              <p>Disponível Apartir de 01 Janeiro 2023<br><a href="https://vitordev01.github.io/pagina-numerologia/">Veja quais são as influências que estão em grande aspecto em seu ano pessoal segundoa Numerologia e Tarô<br></a>
               
               <mark>#taro #numerologia #anoPessoal</mark></p>
              </div>
