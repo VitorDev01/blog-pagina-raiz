@@ -220,7 +220,7 @@
           </button>
           <div class="hide">
             <div class="area">
-              <p>Disponível Apartir de 01 Janeiro 2023<br><a href="#">Veja quais são as influências que estão em grande aspecto em seu ano pessoal segundoa numerologia e taro<br></a>
+              <p>Disponível Apartir de 01 Janeiro 2023<br><a href="https://vitordev01.github.io/pagina-numerologia/">Veja quais são as influências que estão em grande aspecto em seu ano pessoal segundoa numerologia e taro<br></a>
               
               <mark>#taro #numerologia #anoPessoal</mark></p>
              </div>
